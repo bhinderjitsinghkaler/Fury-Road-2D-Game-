@@ -3,7 +3,7 @@ This is a 2D Game developed in UNITY (Gaming Engine). The main idea behind the g
 
 # Game View
 
-<img src="Screenshot (1).png" >
+<img src="Screenshot (1).png" > <img src="Screenshot 9.png" >
 
 ### Features
 
