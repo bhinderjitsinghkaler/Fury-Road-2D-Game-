@@ -1,5 +1,5 @@
 # The-Fury-Road
-This is a 2D Game developed in UNITY (Gaming Engine). The main idea behind the game is that you have to drive as long as you can on a road which has no end and has lots of difficulties. There are mountains (Big &amp; Small) in your way which does not allow you to drive smoothly and creates the problem of going out of fuel. Another difficulty includes mines. Mines are placed in your way and when your car hits the mine it will be thrown into the air and you have to balance the car and make stunts and land it safely. Your car will be crashed if its upper part, bumper or step bumper or trunk lids hits the ground. You have to reach as far as you can before going out of fuel. Also you are provided with boost in your way.  The amount of boost is pre-fixed. Taking the boost is the only way to cover a long distance. You are also provided with fuel tanks in your way. Another important part in the game is collection of coins while playing.
+This is a 2D Game developed in UNITY (Game Engine). The main idea behind the game is that you have to drive as long as you can on a road which has no end and has lots of difficulties. There are mountains (Big &amp; Small) in your way which does not allow you to drive smoothly and creates the problem of getting out of fuel. Another difficulty includes mines. Mines are placed in your way and when your car hits the mine it will be thrown into the air and you have to balance the car and make stunts and land it safely. Your car will be crashed if its upper part, bumper or trunk lids hits the ground. You have to reach as far as you can before going out of fuel. Also you are provided with boost in your way.  The amount of boost is fixed. Taking the boost is the only way to cover a long distance. You are also provided with fuel tanks in your way. Another important part in the game is collection of coins while playing.
 
 # Game View
 
@@ -10,7 +10,7 @@ This is a 2D Game developed in UNITY (Gaming Engine). The main idea behind the g
 
 - Lots of different vehicles (many different vehicles:truck, car, monster truck, etc.)
 - Suspension
-- Numerous stages with levels to reach in each
+- Numerous stages withvdifferent levels
 - Scoreboard
 - Cool graphics and smooth physics simulation
 - Designed to look good on low resolution and high resolution devices
