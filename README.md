@@ -4,7 +4,6 @@ This is a 2D Game developed in UNITY (Gaming Engine). The main idea behind the g
 # Game View
 
 <img src="Screenshot (1).png" >
-<br>
 <img src="screenshot 9.png" >
 
 ### Features
