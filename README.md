@@ -113,5 +113,5 @@ public class CarBalancing : MonoBehaviour {
 
 ## Authors
 
-Ajay Randhawa
-, Bhinderjit Singh Kaler
+Bhinderjit Singh Kaler,
+Ajay Randhawa 
